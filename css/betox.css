@@ -1,33 +1,33 @@
 body {
-background: linear-gradient(269deg, #5768f5, #22e7e8, #5cd065, #ff7f28, #b75eff, #ff5ee4);
-background-size: 1000% 1000%;
+background: linear-gradient(267deg, #f93818, #f99118, #30c321, #1ccee1, #5289f7, #9e17dd, #ec49d7);
+background-size: 1400% 1400%;
 
--webkit-animation: fondoAnimado 45s ease infinite;
--moz-animation: fondoAnimado 45s ease infinite;
--o-animation: fondoAnimado 45s ease infinite;
-animation: fondoAnimado 45s ease infinite;
+-webkit-animation: fondoAnimado 37s ease infinite;
+-moz-animation: fondoAnimado 37s ease infinite;
+-o-animation: fondoAnimado 37s ease infinite;
+animation: fondoAnimado 37s ease infinite;
 }
-
 @-webkit-keyframes fondoAnimado {
-    0%{background-position:0% 51%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 51%}
+    0%{background-position:0% 47%}
+    50%{background-position:100% 54%}
+    100%{background-position:0% 47%}
 }
 @-moz-keyframes fondoAnimado {
-    0%{background-position:0% 51%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 51%}
+    0%{background-position:0% 47%}
+    50%{background-position:100% 54%}
+    100%{background-position:0% 47%}
 }
 @-o-keyframes fondoAnimado {
-    0%{background-position:0% 51%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 51%}
+    0%{background-position:0% 47%}
+    50%{background-position:100% 54%}
+    100%{background-position:0% 47%}
 }
 @keyframes fondoAnimado { 
-    0%{background-position:0% 51%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 51%}
+    0%{background-position:0% 47%}
+    50%{background-position:100% 54%}
+    100%{background-position:0% 47%}
 }
+
 
 .menu {
 	font-family: 'Maven Pro', sans-serif;
