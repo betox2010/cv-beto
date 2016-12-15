@@ -7,6 +7,7 @@ background-size: 1400% 1400%;
 -o-animation: fondoAnimado 37s ease infinite;
 animation: fondoAnimado 37s ease infinite;
 }
+
 @-webkit-keyframes fondoAnimado {
     0%{background-position:0% 47%}
     50%{background-position:100% 54%}
@@ -27,6 +28,13 @@ animation: fondoAnimado 37s ease infinite;
     50%{background-position:100% 54%}
     100%{background-position:0% 47%}
 }
+
+
+.navbar{
+    background-color: rgba(20, 20, 20, .8);
+}
+
+
 
 
 .menu {
