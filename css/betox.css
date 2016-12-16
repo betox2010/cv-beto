@@ -7,9 +7,9 @@ background-size: 1400% 1400%;
 -o-animation: fondoAnimado 37s ease infinite;
 animation: fondoAnimado 37s ease infinite;
 
-font-family: 'Maven Pro', sans-serif;
+font-family: 'Open Sans', sans-serif;
 color: rgba(255, 255, 255, 1);
-font-size: 60px;
+font-size: 24px;
 }
 
 @-webkit-keyframes fondoAnimado {
@@ -41,6 +41,25 @@ h1 {
 }
 
 
+h2 {
+    font-family:'Open Sans', sans-serif;
+    font-size: 36px;
+}
+
+h3 {
+    font-family:'Open Sans', sans-serif;
+    font-size: 50px;
+}
+
+h4 {
+    font-family:'Open Sans', sans-serif;
+    font-size: 24px;
+}
+
+p{
+    margin: 5px 25px 5px 25px;
+}
+
 .nav    {
     text-align: center;
 }
@@ -71,7 +90,14 @@ h1 {
 }
 
 
+.row a:link,a:visited{
+    color: rgb(255,255,255)!important;
+    font-size: 110%;
+}
 
+.row a:hover{
+    color: rgb(255,255,255)!important;
+}
 
 
 /* Extra small devices (phones, up to 480px) */
